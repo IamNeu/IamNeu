@@ -35,7 +35,7 @@ I'm currently learning the **MERN stack** (MongoDB, Express, React, Node.js) thr
 > 💬 Let’s connect and grow together!  
 > I’m always open to collaboration, mentorship, and conversation.
 
-📫 Reach me: [neerusometimes@gmail.com]  
+📫 Reach me: neerusometimes@gmail.com
 🔗 LinkedIn: [https://www.linkedin.com/in/neeru-nayak-a280b416/](#)  
 🧰 Vercel: [https://vercel.com/neus-projects-4adbba5e](#)
 
