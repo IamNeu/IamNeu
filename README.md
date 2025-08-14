@@ -37,5 +37,5 @@ I'm currently learning the **MERN stack** (MongoDB, Express, React, Node.js) thr
 
 📫 Reach me: [neerusometimes@gmail.com]  
 🔗 LinkedIn: [https://www.linkedin.com/in/neeru-nayak-a280b416/](#)  
-🧰 Vercel: [ https://vercel.com/neus-projects-4adbba5e](#)
+🧰 Vercel: [https://vercel.com/neus-projects-4adbba5e](#)
 
