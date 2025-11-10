@@ -9,6 +9,8 @@ I'm currently learning the **MERN stack** (MongoDB, Express, React, Node.js) thr
 
 ### 🛠️ Tech I'm Learning
 - HTML5, CSS3
+- Tailwind CSS
+- Framer Motion
 - JavaScript (ES6+)
 - React.js
 - Node.js + Express
