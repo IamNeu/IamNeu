@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Neeru!
 
-I'm a full-time mom of twins and an aspiring full-stack web developer.  
-After taking a career break to raise my children, I made a bold decision to return in tech.
+I'm a full-time mom of twins and an aspiring Full-Stack Web Developer, currently focused on Frontend Development with React.
+After taking a career break to raise my children, I made a bold decision to return to tech.
 
 I'm currently learning the **MERN stack** (MongoDB, Express, React, Node.js) through self-study, projects, and endless cups of coffee ☕.
 
