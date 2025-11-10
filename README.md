@@ -27,8 +27,8 @@ I'm currently learning the **MERN stack** (MongoDB, Express, React, Node.js) thr
 ---
 
 ### 🎯 Goals for 2025
-- Land a remote front-end/full-stack developer job
-- Build real-world apps that solve problems  
+- Build meaningful web experiences that connect and inspire people
+- Land a remote frontend role that values creativity and learning
 - Inspire other women restarting their careers  
 - Never stop learning 🚀
 
