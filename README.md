@@ -19,10 +19,16 @@ I'm currently learning the **MERN stack** (MongoDB, Express, React, Node.js) thr
 
 ---
 
- *** 🧩 Projects I'm Building ***
-✨ Portfolio Website – Built with React & Tailwind, showcasing my projects and skills.
-📝 To-Do App – A React-based task manager I’m extending with MongoDB and Express.
-📚 Recipe Finder – A dynamic web app that fetches recipes via public APIs (React + JavaScript
+### 🧩 Projects I'm Building
+
+🌐 Portfolio Website
+Built with React & Tailwind — a personal site showcasing my projects, testimonials, and contact form.
+
+📝 To-Do App (React + Node)
+A productivity app I’m expanding into a full MERN stack project with authentication and MongoDB integration.
+
+🍳 Recipe Finder
+A web app that lets users search for recipes by ingredients using real-time API fetching.
 ---
 
 ### 🎯 Goals for 2025
