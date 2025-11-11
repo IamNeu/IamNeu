@@ -22,7 +22,7 @@ I'm currently learning the **MERN stack** (MongoDB, Express, React, Node.js) thr
 ### 🧩 Projects I'm Building
 
 🌐 Portfolio Website
-Built with React & Tailwind — a personal site showcasing my projects, testimonials, and contact form.
+Built with React & Tailwind — a personal site showcasing my projects, testimonials etc.
 
 📝 To-Do App (React + Node)
 A productivity app I’m expanding into a full MERN stack project with authentication and MongoDB integration.
