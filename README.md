@@ -29,7 +29,6 @@ A productivity app I’m expanding into a full MERN stack project with authentic
 
 🍳 Recipe Finder
 A web app that lets users search for recipes by ingredients using real-time API fetching.
----
 
 ### 🎯 Goals for 2025
 - Build meaningful web experiences that connect and inspire people
