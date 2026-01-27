@@ -1,47 +1,30 @@
-# 👋 Hi, I'm Neeru!
+# Hi, I’m Neeru 👋
+**Software Developer | Computer Science Enthusiast**
 
-I'm a full-time mom of twins and an aspiring Full-Stack Web Developer, currently focused on Frontend Development with React.
-After taking a career break to raise my children, I made a bold decision to return to tech.
+I build software with clean code principles and a focus on problem solving and system design. My work reflects a commitment to learning and strong engineering fundamentals.
 
-I'm currently learning the **MERN stack** (MongoDB, Express, React, Node.js) through self-study, projects, and endless cups of coffee ☕.
+## 🛠️ Skills & Technologies
+* Java, JavaScript (ES6+)
+* React.js, Node.js, Express
+* HTML5, CSS3, Tailwind CSS
+* Android development (Java/Kotlin)
+* Git & GitHub
 
----
+## 🔭 Selected Projects
+### Portfolio Website
+React.js + Tailwind — A professional portfolio with responsive design.
 
-### 🛠️ Tech I'm Learning
-- HTML5, CSS3
-- Tailwind CSS
-- Framer Motion
-- JavaScript (ES6+)
-- React.js
-- Node.js + Express
-- MongoDB
-- Git & GitHub
+### Weather App
+A weather visualization app fetching real‑time API data.
 
----
+### Android Apps
+Standalone Android apps demonstrating end‑to‑end app logic.
 
-### 🧩 Projects I'm Building
+Each project has a README explaining its architecture, features, and how to explore the code.
 
-🌐 Portfolio Website
-Built with React & Tailwind — a personal site showcasing my projects, testimonials etc.
+## 🎯 Current Focus
+Continuing to build full‑stack applications, deepen understanding of algorithms and systems, and apply software engineering principles.
 
-📝 To-Do App (React + Node)
-A productivity app I’m expanding into a full MERN stack project with authentication and MongoDB integration.
-
-🍳 Recipe Finder
-A web app that lets users search for recipes by ingredients using real-time API fetching.
-
-### 🎯 Goals for 2025
-- Build meaningful web experiences that connect and inspire people
-- Land a remote frontend role that values creativity and learning
-- Inspire other women restarting their careers  
-- Never stop learning 🚀
-
----
-
-> 💬 Let’s connect and grow together!  
-> I’m always open to collaboration, mentorship, and conversation.
-
-📫 Reach me: neerusometimes@gmail.com
-🔗 LinkedIn: [https://www.linkedin.com/in/neeru-nayak-a280b416/](#)  
-🧰 Vercel: [https://vercel.com/neus-projects-4adbba5e](#)
-
+📫 Reach me: neerusometimes@gmail.com  
+Portfolio: https://vercel.com/neus-projects-4adbba5e  
+LinkedIn: https://www.linkedin.com/in/neeru-nayak-a280b416/
