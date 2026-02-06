@@ -1,30 +1,44 @@
-# Hi, I’m Neeru 👋
-**Software Developer | Computer Science Enthusiast**
+# Hi, I’m Neeru Nayak 👋 
 
-I build software with clean code principles and a focus on problem solving and system design. My work reflects a commitment to learning and strong engineering fundamentals.
+**Technical Solution Engineer | Frontend Diagnostics | SaaS Operations**
 
-## 🛠️ Skills & Technologies
-* Java, JavaScript (ES6+)
-* React.js, Node.js, Express
-* HTML5, CSS3, Tailwind CSS
-* Android development (Java/Kotlin)
-* Git & GitHub
+I am a troubleshooting specialist with a background in enterprise-scale systems and a modernized technical stack. I bridge the gap between complex frontend architecture and backend reliability, ensuring seamless digital experiences for global clients.
 
-## 🔭 Selected Projects
-### Portfolio Website
-React.js + Tailwind — A professional portfolio with responsive design.
+---
 
-### Weather App
-A weather visualization app fetching real‑time API data.
+### 🛠️ Technical Ecosystem
 
-### Android Apps
-Standalone Android apps demonstrating end‑to‑end app logic.
+* **Frontend & UI:** React.js, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3
+* **Diagnostics & APIs:** Chrome DevTools, Postman, RESTful APIs, Webhook Monitoring
+* **Infrastructure & Logic:** Node.js, Linux/Unix systems, Root Cause Analysis (RCA)
+* **Modern Workflow:** Generative AI for technical documentation and log automation
 
-Each project has a README explaining its architecture, features, and how to explore the code.
+---
 
-## 🎯 Current Focus
-Continuing to build full‑stack applications, deepen understanding of algorithms and systems, and apply software engineering principles.
+### 🔭 Featured Projects
 
-📫 Reach me: neerusometimes@gmail.com  
-Portfolio: https://vercel.com/neus-projects-4adbba5e  
-LinkedIn: https://www.linkedin.com/in/neeru-nayak-a280b416/
+#### **Node-Based Data Visualization Tool**
+* **Concept:** A custom UI built to map and visualize complex data relationships and workflow logic.
+* **Tech Stack:** React.js, ReactFlow, Tailwind CSS.
+* **Engineering Focus:** State management, node-link consistency, and optimizing rendering for large data sets.
+
+#### **API & Implementation Framework**
+* **Concept:** Documentation and troubleshooting playbooks for third-party script integrations.
+* **Focus:** Identifying common failure points in **SaaS widgets, UGC galleries, and E-commerce embeds**.
+* **Tools:** Postman for endpoint validation and Chrome DevTools for script conflict resolution.
+
+---
+
+### 🎯 Professional Profile
+With a career foundation built on managing high-stakes technical incidents for global enterprise clients, I specialize in:
+* **Strategic Troubleshooting:** Reducing Time-to-Resolution (TTR) for complex web integrations.
+* **Technical Communication:** Translating engineering constraints into actionable insights for commercial teams.
+* **Continuous Upskilling:** Currently leveraging AI to enhance diagnostic efficiency and documentation speed.
+
+---
+*"Turning technical complexity into seamless user experiences."*
+
+### 📫 Let's Connect
+* **Email:** neerusometimes@gmail.com
+* **Portfolio:** https://vercel.com/neus-projects-4adbba5e  
+* **LinkedIn:** https://www.linkedin.com/in/neeru-nayak-a280b416/
