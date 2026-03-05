@@ -1,6 +1,6 @@
 # Hi, I’m Neeru Nayak 👋 
 
-**Technical Solution Engineer | Frontend Diagnostics | SaaS Operations**
+**Technical Solution Engineer | AI Workflows | Frontend Diagnostics | SaaS Operations**
 
 I am a troubleshooting specialist with a background in enterprise-scale systems and a modernized technical stack. I bridge the gap between complex frontend architecture and backend reliability, ensuring seamless digital experiences for global clients.
 
