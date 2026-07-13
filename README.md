@@ -39,10 +39,18 @@ Built a full-stack merchant payment collection platform from scratch for a finte
 
 ---
 
-### Node-Based Data Visualization Tool
-> Concept project · React.js · ReactFlow · Tailwind CSS
+### NodeFlow — Visual Workflow & Data Relationship Mapper
+> Live at [nodeflow-nu.vercel.app](https://nodeflow-nu.vercel.app) · React.js · ReactFlow · Tailwind CSS
 
-Custom UI to map and visualize complex data relationships and workflow logic. Engineering focus: state management, node-link consistency, and rendering optimization for large datasets.
+Built a custom node-based UI for mapping and visualizing complex data relationships and workflow logic. Designed for teams that need to diagram multi-step processes, API dependencies, or system architecture without heavyweight tooling.
+
+**Engineering focus:**
+- Dynamic node/edge state management with React hooks
+- Node-link consistency across add/remove/update operations  
+- Rendering optimization for large node graphs
+- Drag-and-drop interface with real-time connection validation
+
+**Stack:** React.js · ReactFlow · Tailwind CSS · Vercel
 
 ---
 
